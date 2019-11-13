@@ -3,7 +3,7 @@ if ($_POST['submit'] == "Calculate") {
   $calculate = $_POST['a'] + $_POST['b'];
   $answer = $_POST['a']." plus ".$_POST['b']." equals ".$calculate;
 } else {
-  header("Location: index.html");
+  header("Location: index.php");
 }
 ?>
 <!DOCTYPE html>

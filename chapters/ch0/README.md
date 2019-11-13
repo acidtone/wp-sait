@@ -85,9 +85,11 @@
   - else
 - loops
   - foreach
+    - can pass both key and value to loop: `foreach(array as $key => 'value')`
   - while
   - for
 - include() and require()
+  - used for PHP's version of template partials
 - functions
 
 ## Activity: Mobile First Layout in WP

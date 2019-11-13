@@ -1,27 +1,13 @@
 <?php
-// Global Navigation
-$nav = array(
-  'home'  =>  array(
-    'label' =>  'Home',
-    'link'  =>  'index.php'
-  ),
-  'services'  =>  array(
-    'label' =>  'Services',
-    'link'  =>  'services.php'
-  ),
-  'products'  =>  array(
-    'label' =>  'Products',
-    'link'  =>  'products.php'
-  )
-);
-
+include('includes/nav.php');
+include('includes/footer.php'); // include_once(): include a file just once, duh.
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Adding Machine</title>
-  <link rel="stylesheet" href="styles.css">
+  <?php require('includes/external_css.php'); // require_once(): require a file just once, duh. ?>
   <style>
     aside {
       margin-bottom: 50vh;
@@ -36,13 +22,7 @@ $nav = array(
 <body>
   <nav>
     <ul>
-<?php
-
-foreach($nav as $key => $value) {
-  echo '<li class="'.$key.'"><a href="'.$value['link'].'">'.$value['label']."</a></li>\n";
-}
-
-?>
+      <?php echo $nav_bar; ?>
     </ul>
   </nav>
   <main>
@@ -85,7 +65,7 @@ $list_of_veg = ['potato', 'tomato',3];
 var_dump($list_of_fruit);
 print_r($list_of_veg);
 
-// Stops the script immediatly
+// Stops the script immediately
 // die('Just died');
 ?>
       </pre>
@@ -130,5 +110,8 @@ if (count($user['fav_vegs']) == 4) {
 ?>
     </aside>
 </main>
+<footer>
+  <?php echo $footer; ?>
+</footer>
 </body>
 </html>

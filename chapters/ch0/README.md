@@ -1,4 +1,36 @@
 # Chapter 0: Environment setup
+## PHP Primer
+- expressions
+- variables
+  - coersion
+  - types
+    - string
+    - number
+    - boolean
+    - null
+    - array
+    - objects
+- operators
+  - assignment
+  - string
+    - concatenation
+  - number
+    - arithmetic
+  - logical
+  - comparison
+- conditionals
+  - if
+  - else if
+  - else
+- loops
+  - foreach
+  - while
+  - for
+- functions
+
+## Activity: Mobile First Layout in WP
+
+# Slide Synopsis
 ## Local install
 - Alternatives to Wordpress
   - Wix

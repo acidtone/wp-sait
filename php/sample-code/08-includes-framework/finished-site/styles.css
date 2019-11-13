@@ -1,0 +1,65 @@
+body{
+	background-color:blue;
+}
+
+#wrapper{
+	font-family:"Trebuchet MS",Trebuchet,Arial,Helvetica,sans-serif;
+	width:80%;
+	margin:0 auto;
+	border:3px solid black;
+	background-color:white;
+}
+
+h1{
+	margin:0;
+	padding:0;
+}
+header{
+	text-align:center;
+	float:left;
+	width:100%;
+	background-color:orange;
+	margin-bottom:1rem;
+}
+header nav ul li{
+	display:inline;
+	background-color:red;
+	padding:0.5rem;
+}
+header nav ul li:hover{
+	background-color:blue;
+}
+header nav ul li a{
+	text-decoration:none;
+}
+header nav ul li a:hover{
+	color:red;
+}
+
+main{
+	padding:1rem;
+}
+main h1{
+	text-transform:uppercase;
+	margin-bottom:1rem;
+	border-bottom:1px solid #000;
+}
+
+aside{
+	background-color:orange;
+	float:left;
+	width:30%;
+	padding:0.3rem;
+	border:1px solid black;
+	margin-right:1rem;
+}
+
+footer{
+	clear:both;
+	float:left;
+	width:100%;
+	background-color:orange;
+}
+footer p{
+	margin-left:1rem;
+}

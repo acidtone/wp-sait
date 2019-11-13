@@ -87,6 +87,7 @@
   - foreach
   - while
   - for
+- include() and require()
 - functions
 
 ## Activity: Mobile First Layout in WP

@@ -35,15 +35,30 @@
 
 # PHP Primer
 - expressions
-- variables
+  - code that returns a value
+- variables (values)
   - coersion
   - types
     - string
+      - single or double quotes
+        - double: resolves variables and escaped whitespace
     - number
+      - integers
+      - floats
+      - dates
+        - unix timestamp
     - boolean
     - null
     - array
+      - indexed
+        - in js these are just arrays
+        - aka: a list
+      - associated
+        - a list of name/value pairs
+        - aka: an array
     - objects
+      - aka: classes; not covered in this course... until it is
+      - in js, objects are nothing more than name/value pairs
 - operators
   - assignment
   - string

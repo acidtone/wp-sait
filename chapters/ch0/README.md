@@ -61,12 +61,24 @@
       - in js, objects are nothing more than name/value pairs
 - operators
   - assignment
+    - php: returns the value that was assigned (it's an expression)
+    - js: returns undefined 
   - string
     - concatenation
+      - js: the operator for concatenation and add is '+'
+      - php: concatenation operator is '.'
   - number
     - arithmetic
+      - works the same in js and php (mostly)
   - logical
+    - AND (or &&)
+    - OR (or ||)
+    - NOT ( or !)
   - comparison
+    - equal: ==
+    - identical: ===
+    - not equal: !=
+    - not identical: !==
 - conditionals
   - if
   - else if

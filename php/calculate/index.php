@@ -59,7 +59,44 @@ print_r($list_of_veg);
 // die('Just died');
 ?>
     </pre>
-    <p></p>
+    <h2>Associative Arrays</h2>
+    <pre>
+<?php
+
+$fav_vegs = ['potato', 'tomato'];
+
+$user = array(
+  'first_name'    => 'Tony',
+  'last_name'     => 'Grimes',
+  'email'         =>  'acidtone@tonygrimes.com',
+  'fav_fruits'    =>  array('apple', 'pear','orange'),
+  'fav_vegs'      => $fav_vegs
+);
+
+var_dump($user);
+
+?>
+    </pre>
+    <p>Hello, <?php echo $user['first_name']; ?>! I hear one of your fav fruits is <?php echo $user['fav_fruits'][2]; ?> and a fav veggie is <?php echo $user['fav_vegs'][] = 'french fry'; ?>.</p>
+<?php
+
+    $user['fav_vegs'][] = 'green bean';
+    var_dump($user);
+
+?>
+    </pre>
+    <h2>Conditionals</h2>
+<?php
+
+if (count($user['fav_vegs']) == 4) {
+  echo "<p>There are 4 veggies</p>.";
+} else if (count($user['fav_vegs']) > 4) {
+  echo "<p>There are more than 4 veggies.</p>";
+} else {
+  echo "<p>There are less than 4 veggies.</p>";
+}
+
+?>
     <p></p>
     <p></p>
     <p></p>

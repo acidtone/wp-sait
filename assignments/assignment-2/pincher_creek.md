@@ -1,4 +1,4 @@
-# Calgary Real Estate
+# Pincher Creek
 ## Website Goal
 - To design a website that would encourage people to come visit the Town. It must have an ‘inviting’ look and feel. Colours and fonts are up to your discretion.
 

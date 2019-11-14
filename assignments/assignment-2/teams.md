@@ -35,3 +35,4 @@ Members:
 - Lord
 - Floyd
 - Julia
+- Katherine

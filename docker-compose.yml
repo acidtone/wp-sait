@@ -16,7 +16,7 @@ services:
     container_name: wordpress
     restart: always
     volumes: 
-      - ./public/app/wp-content:/var/www/html/wp-content
+      - ./app/public/wp-content:/var/www/html/wp-content
     environment: 
       WORDPRESS_DB_HOST: db
       WORDPRESS_DB_NAME: wpsait

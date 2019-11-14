@@ -8,8 +8,8 @@
 
 ## Themes
 - [WP Theme Manual](https://developer.wordpress.org/themes/)
+  - [Theme Basics](https://developer.wordpress.org/themes/basics/)
+  - [Child Themes](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
   - [Theme Examples](https://developer.wordpress.org/themes/getting-started/theme-development-examples/)
     - [underscores theme](https://underscores.me/)
     - [underscores github](https://github.com/automattic/_s)
-  - [theme basics](https://developer.wordpress.org/themes/basics/)
-  - [Child Themes](https://developer.wordpress.org/themes/advanced-topics/child-themes/)

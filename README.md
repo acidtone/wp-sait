@@ -11,6 +11,7 @@
 ## Themes
 - [WP Theme Manual](https://developer.wordpress.org/themes/)
   - [Theme Basics](https://developer.wordpress.org/themes/basics/)
+  - [Adding Styles and CSS to your Theme](https://developer.wordpress.org/themes/basics/including-css-javascript/)
   - [Child Themes](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
   - [Theme Examples](https://developer.wordpress.org/themes/getting-started/theme-development-examples/)
     - [underscores theme](https://underscores.me/)

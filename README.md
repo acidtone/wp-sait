@@ -12,3 +12,4 @@
     - [underscores theme](https://underscores.me/)
     - [underscores github](https://github.com/automattic/_s)
   - [theme basics](https://developer.wordpress.org/themes/basics/)
+  - [Child Themes](https://developer.wordpress.org/themes/advanced-topics/child-themes/)

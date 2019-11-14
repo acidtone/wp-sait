@@ -19,6 +19,7 @@
   - Docker Desktop
   - Local Flywheel
   - Server Press
+- hash for 'password': `$P$B1shCzLv0hiowqH3vNwmuZ8Jeilh1Z1`
 
 ## Requirements for a WP theme
 1. index.php

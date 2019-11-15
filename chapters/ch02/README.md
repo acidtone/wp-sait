@@ -8,6 +8,7 @@
     - Codex: [Page Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/)
     - Codex: [Custom Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/#creating-a-custom-page-template-for-one-specific-page)
     - Codex: [Template Partials](https://developer.wordpress.org/themes/template-files-section/partial-and-miscellaneous-template-files/#content-slug-php)
+    - Note: Template pages overide custom pages
 - not a lot of options
   - limited settings
   - no scheduling
@@ -36,6 +37,10 @@
   - Would tagging help filter the content?
 - Does the content naturally fall into categories?
 - Is author attribution important?
+
+## Template Parts
+- Codex: [Template Parts](https://developer.wordpress.org/themes/template-files-section/partial-and-miscellaneous-template-files/#content-slug-php)
+- Article: [`get_template_part()`: What and Why](https://wpshout.com/get-template-part/)
 
 ## Menus
 - Codex: [Navigation Menus](https://codex.wordpress.org/Navigation_Menus)

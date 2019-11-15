@@ -28,6 +28,7 @@ Members:
 - Mitch
 - Quentin
 - Roy
+- Donnie
 
 ## Turtle Tech
 Website: MacEwan University

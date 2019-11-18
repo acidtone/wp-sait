@@ -26,22 +26,27 @@ Weighting: 25% of final mark
 ### Presentation: 10 points
 cite: https://www.uen.org/rubric/previewRubric.html?id=19
 - Content
+
   2: The speaker provides a variety of types of content appropriate for the task, such as generalizations, details, examples and various forms of evidence. The speaker adapts the content in a specific way to the listener and situation.
   1: The speaker focuses primarily on relevant content. The speaker sticks to the topic. The speaker adapts the content in a general way to the listener and the situation.
   0: The speaker says practically nothing. The speaker focuses primarily on irrelevant content. The speaker appears to ignore the listener and the situation.
 - Delivery
+
   2: The speaker delivers the message in a confident, poised, enthusiastic fashion. The volume and rate varies to add emphasis and interest. Pronunciation and enunciation are very clear. The speaker exhibits very few disfluencies, such as "ahs," "uhms," or "you knows."
   1: The volume is not too low or too loud and the rate is not too fast or too slow. The pronunciation and enunciation are clear. The speaker exhibits few disfluencies, such as "ahs," "uhms," or "you knows.
   0: The volume is so low or the rate is so fast that you cannot understand most of the message. The pronunciation and enunciation are very unclear. The speaker appears uninterested.
 - Organization
+
   2: The message is overtly organized. The speaker helps the listener understand the sequence and relationships of ideas by using organizational aids such as announcing the topic, previewing the organization, using transitions, and summarizing.
   1: The message is organized. The listener has no difficulty understanding the sequence and relationships among the ideas in the message. The ideas in the message can outlined easily.
   0: The message is so disorganized you cannot understand most of the message.
 - Creativity
+
   2: Very original presentation of material; captures the audience’s attention.
   1: Some originality apparent; good variety and blending of materials / media.
   0: Repetitive with little or no variety; insufficient use of materials / media.
 - Length
+
   2: Within one minutes of allotted time
   1: Within two minutes of allotted time.
   0: Too long or too short; three or more minutes above or below the allotted time.

@@ -24,6 +24,9 @@
 
 ## Github Pages Demo
 - ref: https://pages.github.com/
+- gh-pages for extra repos
+  - [Creating GH Pages Site](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
+  - [Git Branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 
 ## Install Jekyll
 - ref: https://jekyllrb.com/docs/

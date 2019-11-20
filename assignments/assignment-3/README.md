@@ -18,7 +18,7 @@ This site must be hosted on GitHub Pages. Use your own unique content where poss
 
 Lorem ipsum text and lorem picsum placeholder images cannot be used for this assignment. Adapt existing, openly licensed content for your design and use static images (can be remotely hosted) when practical.
 
-You may use any official (installed) Github Pages theme:
+You may use any officially supported [GH Pages theme](https://pages.github.com/themes/).
 
 
 ## Deliverables and Rubric
@@ -53,8 +53,9 @@ Your code should be valid, well formatted/organized and easy for your instructor
 - should be date based with valid Jekyll post filenames
 
 ### 6. Plugins
-- post and discussion comments
-- email forms
+- install and integrat ONE of the following features using a plugin or service
+  - post and discussion comments
+  - email forms
 
 ### 7. Collections
 - present an example of a collection in your site

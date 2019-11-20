@@ -13,6 +13,7 @@
 
 ## Tips and Tricks
 - [posts vs pages](https://stackoverflow.com/questions/15095625/what-are-the-differences-between-a-post-and-a-page-in-jekyll)
+- Tutorial: [Advanced Navigation](https://learn.cloudcannon.com/jekyll/advanced-navigation/)
 - Jekyll doesn't support child themes
 - [Setting up a Github pages site with jekyll](https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
 - [Github Pages Hosted Themes](https://github.com/topics/jekyll-theme)

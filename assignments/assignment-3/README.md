@@ -53,7 +53,7 @@ Your code should be valid, well formatted/organized and easy for your instructor
 - should be date based with valid Jekyll post filenames
 
 ### 6. Plugins
-- install and integrat ONE of the following features using a plugin or service
+- install and integrate ONE of the following features using a plugin or service
   - post and discussion comments
   - email forms
 
@@ -64,3 +64,6 @@ Your code should be valid, well formatted/organized and easy for your instructor
   - recipies
   - pinball bars
   - etc
+  
+  ## Submission Instructions
+  Submit your GitHub Pages url as a comment in brightspace.

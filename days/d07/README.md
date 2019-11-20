@@ -14,6 +14,8 @@
 ## Tips and Tricks
 - [posts vs pages](https://stackoverflow.com/questions/15095625/what-are-the-differences-between-a-post-and-a-page-in-jekyll)
 - Jekyll doesn't support child themes?
+- [Video Walkthroughs](https://jekyllrb.com/tutorials/video-walkthroughs/)
+- [E-Commerce](https://jekyllthemes.io/resources/jekyll-e-commerce-solutions)
 
 ## Activity: Jekyll Plugins!
 - refs:

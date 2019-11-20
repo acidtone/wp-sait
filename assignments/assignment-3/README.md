@@ -1,28 +1,65 @@
-# Assignment 1
+# Assignment 3
 ## Purpose
-This task helps you become more familiar with the fundamentals of WordPressby working with a remote WordPress instance, creating pages, posts, amenu, a user, and adding themeand plugins.You can use any remote instance you like, but it must be publically accessible via a valid DNS name.
+This task helps you become more familiar with the fundamentals of Jekyll by working with a GH Pages hosted site. You will be creating/configuring a number of common blog/cms features such as pages, posts, dynamic navigation, items (with collections) and plugins.
 
 ## Due
-Tuesday, November 19 @ 11:59pm 
+Wednesday, November 27 @ 11:59pm 
 
 ## Worth
-25% of your Final Mark for the course
+35% of your Final Mark for the course
 
 ## Directions
-The Town of Sechelt, BC is looking for a new website for its tourism centre.  They would like you to build a proof of concept web site to showcase your web design/development skills.You will need to configure and install a new instance of WordPress called 'Sechelt Visitor Centre'. You can use whatever plugins you choose.
-### They have the following requirements for their proof of concept:
-- design a website that would encourage people to come visit the town.  It musthave an 'inviting' look and feel.  Colours and fonts are up to your discretion, but you will be rewarded for a more appealing, inviting site.You MUSTuse the Naked themeand customize it with PHP/CSS/HTML/JavaScript code and other images you find to make it 'your own'.Your design must beresponsive.
-- use any of the images provided with this package any way you like.  Exceptions are:
-  - images for the news items - they are documented with the news item text.  They must be used with that particular news item as documented.
-- The site needs a set of posts for news items. These need to be associated with the Category 'News' and should be displayed on a 'News' posting web page
-- The site needs a set of posts for events.  These need to be associated with the Category 'Events' and should be displayed on an 'Event' posting web page.
-- The 'Home' page should not be a 'post'and should contain the text in the Home.rtf file.
-- The 'History' page should not be a 'post'and should contain the text in the History.rtf file.  It should also display the 3 historical photos of the town.
-- The 'Our Town' page should not be a 'post'and should contain the text in the 'Our Town.rtf' file.
-- The 'Outdoor Activities' page should not be a 'post'and should contain the text in the 'OutDoor Activities.rtf' file.
-- The 'Visitor Centre' page should not be a 'post'and should contain the text in the 'Visitor Centre.rtf' file.
-- Have a menu on each page of the site that displays all the pages/posts created (Home, History, Our Town, Outdoor Activities, Visitor Centre, News, and Events)
-- Have links and icons to social media.
-- Create and implement a favicon for the site.
-- Add a user called admin, give the user the administrator role, and a password of'password'.
-- Submit the IP Address or URL for grading
+Using the Jekyll framework, you will be generating a static website that is either:
+
+- your own portfolio site
+- a hypothetical client site for a business owner of your choice
+
+This site must be hosted on GitHub Pages. Use your own unique content where possible. Place holder content is permissible with proper attribution and integration into your project. 
+
+Lorem ipsum text and lorem picsum placeholder images cannot be used for this assignment. Adapt existing, openly licensed content for your design and use static images (can be remotely hosted) when practical.
+
+You may use any official (installed) Github Pages theme:
+
+
+## Deliverables and Rubric
+5 points will be given to each of the following seven deliverables:
+
+### 1. Code Quality
+Your code should be valid, well formatted/organized and easy for your instructor to find the things while marking.
+
+### 2. Usability
+- accessibility
+- layout 
+- user experience
+- presentation
+- responsiveness
+
+### 3. Page Structure
+- at least 4 examples of static pages (about, contact, etc)
+- create three or more _layouts for different page structures (two of these will usually be created for you by the theme). 
+- must use includes for repeating page elements such as header and footer
+
+### 4. Navigation
+- defined as _data
+- required fields
+  - title: for link title attribute (or page title, perhaps?)
+  - label: link text
+  - link: link href
+
+### 5. Posts
+- 10 posts (enough to require pagination). See instructions for post content expectations.
+- create a Posts page that uses pagination (example: 5 posts per page)
+- create a single post page for displaying a single (you guessed it) post
+- should be date based with valid Jekyll post filenames
+
+### 6. Plugins
+- post and discussion comments
+- email forms
+
+### 7. Collections
+- present an example of a collection in your site
+- Examples:
+  - books
+  - recipies
+  - pinball bars
+  - etc

@@ -14,7 +14,7 @@ Using the Jekyll framework, you will be generating a static website that is eith
 - your own portfolio site
 - a hypothetical client site for a business owner of your choice
 
-This site must be hosted on GitHub Pages. Use your own unique content where possible. Place holder content is permissible with proper attribution and integration into your project. 
+Use your own unique content where possible. Place holder content is permissible with proper attribution and integration into your project. 
 
 Lorem ipsum text and lorem picsum placeholder images cannot be used for this assignment. Adapt existing, openly licensed content for your design and use static images (can be remotely hosted) when practical.
 
@@ -47,7 +47,8 @@ Your code should be valid, well formatted/organized and easy for your instructor
   - link: link href
 
 ### 5. Posts
-- 10 posts (enough to require pagination). See instructions for post content expectations.
+- See instructions for post content expectations.
+- 10 posts (pagination not required). 
 - create a Posts page that uses pagination (example: 5 posts per page)
 - create a single post page for displaying a single (you guessed it) post
 - should be date based with valid Jekyll post filenames
